@@ -1,0 +1,6 @@
+- Used ChatGPT for:
+  - Project structure and file organization
+  - ShadCN UI integration and import fixes
+  - Debounced search and filter logic
+  - Documentation templates
+  - Troubleshooting Vite and import errors 

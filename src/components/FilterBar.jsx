@@ -1,12 +1,7 @@
 import React from "react";
 import { Input } from "./ui/input";
 import { Select, SelectTrigger, SelectValue, SelectContent, SelectItem } from "./ui/select";
-import { Calendar } from "./ui/calendar";
-import { Popover, PopoverContent, PopoverTrigger } from "./ui/popover";
 import { Button } from "./ui/button";
-import { CalendarIcon } from "lucide-react";
-import { format } from "date-fns";
-
 const categories = ["All", "Electrical", "Mechanical", "Diesel"];
 const statuses = ["All", "Active", "Inactive"];
 const types = ["All", "SAP", "Temp"];
